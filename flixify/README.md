@@ -50,11 +50,11 @@ npm start
 Access the app in your browser at http://localhost:3000/ and dive into the movie exploration journey!
 
 ## Tech Stack
-# React: A powerful library for building dynamic user interfaces.
-# TMDB API: Utilized for accessing extensive movie data and information.
-# Firebase: Provides robust authentication services and hosting solutions.
-# OpenAI GPT: Enables intelligent, personalized movie recommendations based on user input.
-# CSS Framework: Implement responsive design principles to enhance user experience across devices.
+**React**: A powerful library for building dynamic user interfaces.
+**TMDB API:** Utilized for accessing extensive movie data and information.
+**Firebase**: Provides robust authentication services and hosting solutions.
+**OpenAI GPT**: Enables intelligent, personalized movie recommendations based on user input.
+**CSS Framework**: Implement responsive design principles to enhance user experience across devices.
 
 ## Obtain your OpenAI key by signing up at the OpenAI API site.
 Enter your OpenAI key in the Specialized Movie Suggestions section within the app to receive tailored recommendations based on your viewing history and preferences.
@@ -62,5 +62,4 @@ Enter your OpenAI key in the Specialized Movie Suggestions section within the ap
 
 ## Thank You
  I hope this application enriches your movie discovery experience, helping you find and enjoy films that resonate with you. Grab your popcorn and immerse yourself in the world of cinema! 
-
 
